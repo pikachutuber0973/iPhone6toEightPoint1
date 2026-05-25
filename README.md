@@ -8,5 +8,5 @@ For Support, contact "TobyAndrewTest" from discord
 Example: 
 
 ./downgrade.sh --ipsw "your8.ipsw" "your12.ipsw" 8.0 --stitch-activation
-./downgrade.sh --restore 8.1
+./downgrade.sh --restore 8.0
 ./downgrade.sh boot
