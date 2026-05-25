@@ -1,0 +1,5 @@
+these binaries are licensed than this script...
+
+Huge thanks to the libimobiledevice team, tihmstar, and more
+
+credits to pwnerblu for modified idevicerestore method
