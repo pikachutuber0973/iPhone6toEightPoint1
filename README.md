@@ -1,8 +1,8 @@
-# iPhone6toEightPointZero
+# iPhone6Tether8.0
 
 A tethered downgrade tool for only iPhone 6 (had to make this for me)
 
-For Support, contact "TobyAndrewTest" from discord 
+if there is an error, contact "TobyAndrewTest" from discord 
 
 
 Example: 
